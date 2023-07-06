@@ -9,7 +9,5 @@
 <body>
     <?php echo "นายศิรวิทย์ พุทชั่ง"; ?>
     <?php echo "6511850012"; ?>
-    <?php echo "CPA"; ?>
-    <?php echo "Sirawit Putchang"; ?>
 </body>
 </html>

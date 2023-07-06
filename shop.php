@@ -8,7 +8,5 @@
 </head>
 <body>
 <?php echo "0918870302"; ?>   
- <?php echo "MUT"; ?>
- <?php echo "Mahanakron"; ?>
 </body>
 </html>
